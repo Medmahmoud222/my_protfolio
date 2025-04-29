@@ -1,0 +1,102 @@
+body {
+  background-color: #d16262;
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+  animation: fadeIn 2s ease-in-out;
+}
+.title{
+  color: rgb(153, 153, 24);
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.logo {
+  text-align: center; /* Center the logo inside its div */
+  margin-bottom: 20px; /* Add space under the logo */
+}
+
+.logo img {
+  animation: fadeIn 2s ease-in-out;
+  border-radius: 50%; /* Make the logo completely round (circle) */
+  height: 200px; /* Control size */
+  width: 200px; /* Force same width and height to make it round */
+  object-fit: cover; /* Make sure the image fills the circle nicely */
+  box-shadow: 0 4px 8px rgba(226, 221, 221, 0.2); /* Add a nice soft shadow */
+}
+.manager{
+  animation: fadeIn 2s ease-in-out;
+}
+.student{
+  animation: fadeIn 3s ease-in-out;
+}
+.tech-stack {
+  color: #3498db; /* Nice blue color for tech stack */
+  font-weight: bold;
+}
+.full-stack{
+  display: block;
+  text-align: center;
+  animation: fadeIn 2s ease-in-out;
+  color: #830aa8; /* Nice blue color for tech stack */
+  font-weight: bold;
+}
+
+.external-link {
+  color: #e67e22; /* Orange color for external links */
+  text-decoration: underline;
+}
+
+.external-link:hover {
+  color: #d35400; /* Darker orange when mouse hover */
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.badge {
+  padding: 6px 12px;
+  border-radius: 999px; /* Full rounded */
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  animation: zoomIn 0.8s ease;
+}
+
+.badge.html { background: #f16529; }
+.badge.css { background: #2965f1; }
+.badge.javascript { background: #f0db4f; color: #000; }
+.badge.hugo { background: #ff4088; }
+.badge.laravel { background: #ff2d20; }
+.badge.tailwind { background: #06b6d4; }
+.badge.mysql { background: #00758f; }
+.badge.flutter { background: #02569b; }
+
+.badge.php       { background-color: #4F5D95; } /* Dark Blue */
+.badge.css       { background-color: #264de4; } /* Deep Blue */
+.badge.js        { background-color: #f7df1e; color: #000000; } /* Bright Yellow with Black Text */
+.badge.python    { background-color: #306998; } /* Python Blue */
+.badge.laravel   { background-color: #FF2D20; } /* Laravel Red */
+.badge.tailwind  { background-color: #0ea5e9; } /* Sky Blue */
+.badge.mysql     { background-color: #00758f; } /* MySQL Blue */
+.badge.django    { background-color: #092e20; } /* Django Green */
+.badge.Html      { background-color: #e34c26; } /* HTML Orange */
+.badge.React     { background-color: #61dafb; color: #000000; }
+
+/* Animation */
+@keyframes zoomIn {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

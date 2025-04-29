@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt; /&gt; on My Portfolio</title>
+    <link>http://localhost/</link>
+    <description>Recent content in &lt; /&gt; on My Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/about/</guid>
+      <description>&lt;h2 id=&#34;-hello-im-mohamed-mahmoud-tedeih&#34;&gt;👋 Hello, I&amp;rsquo;m Mohamed mahmoud tedeih&lt;/h2&gt;&#xA;&lt;p&gt;&lt;span class=&#34;manager&#34;&gt;Manager and Developper at khidme mauritania&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&#34;student&#34;&gt;A student of Computer Engineering and Systems Security at Mohammed V University in Rabat, Kingdom of Morocco, and a graduate of ISCAE.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;Professional web developer with extensive experience in developing modern web applications using technologies such as Tailwind CSS, React, and Django . I have a strong passion for cyber security and encryption, and I always strive to discover new tools and technologies. I believe in the importance of teamwork and enjoy collaborating with diverse teams to achieve common goals&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My contacts</title>
+      <link>http://localhost/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/contact/</guid>
+      <description>&lt;div class=&#34;social-links&#34;&gt;&#xD;&#xA;   Linked In:&#xD;&#xA;  &lt;a href=&#34;https://www.linkedin.com/in/med-mahmoud-tedih-aa29992a4?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app&#34; target=&#34;_blank&#34; class=&#34;social-icon&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt; &lt;br&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;  Facebook:&#xD;&#xA;  &lt;a href=&#34;https://www.facebook.com/share/16P9honLaG/?mibextid=wwXIfr&#34; target=&#34;_blank&#34; class=&#34;social-icon&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fab fa-facebook&#34;&gt;&lt;/i&gt;&#xD;&#xA;  &lt;/a&gt;&lt;br&gt;&#xD;&#xA;  Whatsapp:&#xD;&#xA;  &lt;a href=&#34;https://wa.me/+22242038210&#34; target=&#34;_blank&#34; class=&#34;social-icon&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fab fa-whatsapp&#34;&gt;&lt;/i&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>http://localhost/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/projects/</guid>
+      <description>&lt;h2 id=&#34;-projects-showcase&#34;&gt;🚀 Projects Showcase&lt;/h2&gt;&#xA;&lt;p&gt;Here are some of the projects I have worked on:&lt;/p&gt;&#xA;&lt;h3 id=&#34;-portfolio-website&#34;&gt;📱 Portfolio Website&lt;/h3&gt;&#xA;&lt;p&gt;A personal portfolio to showcase my projects, skills, and experience.&lt;br&gt;&lt;br&gt;&#xA;&lt;span class=&#34;tech-stack&#34;&gt; &lt;strong&gt;Tech stack:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;badges&#34;&gt;&#xD;&#xA;  &lt;span class=&#34;badge html&#34;&gt;HTML&lt;/span&gt;&#xD;&#xA;  &lt;span class=&#34;badge css&#34;&gt;CSS&lt;/span&gt;&#xD;&#xA;  &lt;span class=&#34;badge javascript&#34;&gt;JavaScript&lt;/span&gt;&#xD;&#xA;  &lt;span class=&#34;badge hugo&#34;&gt;Hugo&lt;/span&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h3 id=&#34;-e-commerce-khidme-mauritania&#34;&gt;🛒 E-commerce Khidme Mauritania&lt;/h3&gt;&#xA;&lt;p&gt;is a major website in Mauritania, serving as a digital marketplace that meets a wide range of needs, from general services to diverse products.&#xA;It also allows users to upload their own products or services&lt;br&gt;&#xA;&lt;a href=&#34;https://khidme.com&#34;&gt;khidme.com&lt;/a&gt;  &lt;br&gt;&#xA;&lt;span class=&#34;tech-stack&#34;&gt;&lt;strong&gt;Tech stack:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
