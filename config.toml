@@ -1,0 +1,28 @@
+baseURL = 'http://localhost/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'ananke'
+
+[params]
+  # Optional params to make the theme more beautiful
+  description = "Welcome to my personal portfolio!"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  name = "contacts"
+  url = "/contact/"
+  weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
